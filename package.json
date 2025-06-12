@@ -1,0 +1,9 @@
+{
+  "name": "puter-cursor",
+  "version": "1.0.0",
+  "description": "Puter integration for Cursor",
+  "main": "src/mcp-server.js",
+  "scripts": {
+    "start": "node src/mcp-server.js"
+  }
+} 
