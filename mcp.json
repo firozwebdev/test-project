@@ -1,12 +1,14 @@
 {
-  "entry": "src/mcp-server.js",
-  "name": "Puter",
-  "description": "Puter integration for Cursor",
-  "version": "1.0.0",
-  "type": "model",
-  "capabilities": {
-    "chat": true,
-    "code": true,
-    "edit": true
+  "mcpServer": {
+    "entry": "src/mcp-server.js",
+    "name": "Puter",
+    "description": "Puter integration for Cursor",
+    "version": "1.0.0",
+    "type": "model",
+    "capabilities": {
+      "chat": true,
+      "code": true,
+      "edit": true
+    }
   }
 } 
